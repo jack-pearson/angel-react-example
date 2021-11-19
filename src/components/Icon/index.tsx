@@ -4,10 +4,10 @@
  * @LastEditTime: 2021-11-02 17:19:12
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: /angel-ui-example/src/components/Icon/index.tsx
+ * @FilePath: /angel-react-example/src/components/Icon/index.tsx
  */
 import React from "react";
-import { Icon as IconComponent } from "angel-ui";
+import { Icon as IconComponent } from "angel-react";
 
 const Icon = () => {
   return (

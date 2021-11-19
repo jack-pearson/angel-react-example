@@ -28,7 +28,7 @@ Trace:
 
 npm manifest: 
   {
-    "name": "angel-ui-example",
+    "name": "angel-react-example",
     "version": "0.0.0",
     "scripts": {
       "dev": "vite",

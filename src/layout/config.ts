@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-11-02 17:49:45
  * @LastEditors: jack-pearson
  * @Description: In User Settings Edit
- * @FilePath: /angel-ui-example/src/layout/config.ts
+ * @FilePath: /angel-react-example/src/layout/config.ts
  */
 import Welcome from "@/components/welcome";
 import { Button, Icon, Card } from "@/components";

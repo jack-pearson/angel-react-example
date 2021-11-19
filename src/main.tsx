@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "angel-ui/dist/index.css";
+import "angel-react/dist/index.css";
 import "@/index.scss";
 import Router from "@/layout";
 

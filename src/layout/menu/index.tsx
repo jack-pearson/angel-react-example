@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-11-02 17:09:43
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: /angel-ui-example/src/layout/menu/index.tsx
+ * @FilePath: /angel-react-example/src/layout/menu/index.tsx
  */
 import React from "react";
 import classNames from "classnames";
@@ -31,7 +31,7 @@ const MenuLink: React.FC<{ title: string; path: string }> = ({
 const Menu = () => {
   return (
     <div className="menu">
-      {menuOption.map((item) => {
+      {menuOption.map(item => {
         return <MenuLink path={item.path} title={item.title} key={item.path} />;
       })}
     </div>

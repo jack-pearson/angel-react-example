@@ -1,10 +1,9 @@
 {
-  "name": "angel-ui-example",
+  "name": "angel-react-example",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
-    "serve": "vite preview"
+    "build": "tsc && vite build"
   },
   "dependencies": {
     "classnames": "^2.3.1",

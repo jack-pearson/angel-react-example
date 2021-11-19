@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-11-02 17:10:35
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: /angel-ui-example/src/layout/index.tsx
+ * @FilePath: /angel-react-example/src/layout/index.tsx
  */
 import React from "react";
 import { BrowserRouter as Router } from "react-router-dom";

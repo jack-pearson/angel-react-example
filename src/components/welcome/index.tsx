@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-11-02 17:16:15
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: /angel-ui-example/src/view/home/index.tsx
+ * @FilePath: /angel-react-example/src/view/home/index.tsx
  */
 import React from "react";
 

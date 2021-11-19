@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-11-02 13:42:54
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: /angel-ui-example/src/components/404/index.tsx
+ * @FilePath: /angel-react-example/src/components/404/index.tsx
  */
 import React from "react";
 import { useLocation } from "react-router-dom";
